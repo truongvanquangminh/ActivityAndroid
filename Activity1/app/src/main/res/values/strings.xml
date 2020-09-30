@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity1</string>
+    <string name="btnOpenChildActivity">Open Child Activity</string>
+    <string name="_1811505310229">1811505310229</string>
+    <string name="tr_ng_v_n_quang_minh">Trương Văn Quang Minh</string>
+    <string name="this_is_man_activity">This is man Activity</string>
+</resources>
